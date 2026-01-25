@@ -66,6 +66,6 @@ Currently working as **Senior Engineering Manager @ Infinite Commerce** (prev. D
 ### 📫 Let’s Connect
 - 💼 LinkedIn
 - 📬 bindaltanmay@gmail.com
-- 🧾 Resume (Upload and link if available)
+- 🧾 [Resume](https://drive.google.com/file/d/19Ib9iP0x523DB3FgLzDZ7R1Ih7Lg8BV6/view?usp=sharing)
 
 💡 Currently open to fullstack opportunities (frontend-leaning or balanced), remote or Bangalore-based. Let’s build something impactful!
