@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/10may/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:10maybindal@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanmaybindal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bindaltanmay@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a fullstack developer with a strong frontend architecture background and expanding backend fluency.  
-Currently working as **Senior Engineering Manager @ Infinite Commerce** (prev. DemandHelm → Cap Hill Brands).
+I'm a full-stack developer with a strong background in frontend architecture and expanding backend fluency.  
+Currently working as **Senior Engineering Manager @ Infinite Commerce** (prev. DemandHelm → Capitol Hill Brands → Infinite Commerce → Eudia).
 
 🔹 I specialize in building high-performance UIs, dashboards, and internal tools using React, TypeScript, Tailwind, Zustand, and TanStack Table.  
 🔹 I’ve worked through **acquisitions and mergers**, growing from first engineer to team lead — while staying hands-on.  
@@ -60,12 +60,12 @@ Currently working as **Senior Engineering Manager @ Infinite Commerce** (prev. D
 
 ### 📈 GitHub Stats
 <p align=""> 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=10may&show_icons=true&theme=tokyonight" height="165" />  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10may&layout=compact&theme=tokyonight" height="165" /> </p>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=tanmaybindal&show_icons=true&theme=tokyonight" height="165" />  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybindal&layout=compact&theme=tokyonight" height="165" /> </p>
 
 ### 📫 Let’s Connect
 - 💼 LinkedIn
-- 📬 10maybindal@gmail.com
+- 📬 bindaltanmay@gmail.com
 - 🧾 Resume (Upload and link if available)
 
 💡 Currently open to fullstack opportunities (frontend-leaning or balanced), remote or Bangalore-based. Let’s build something impactful!
