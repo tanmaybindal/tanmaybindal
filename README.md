@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 I'm a full-stack developer with a strong background in frontend architecture and expanding backend fluency.  
-Currently working as **Senior Engineering Manager @ Infinite Commerce** (prev. DemandHelm → Capitol Hill Brands → Infinite Commerce → Eudia).
+Currently working as a **Software Engineer @ Eudia**.
 
 🔹 I specialize in building high-performance UIs, dashboards, and internal tools using React, TypeScript, Tailwind, Zustand, and TanStack Table.  
 🔹 I’ve worked through **acquisitions and mergers**, growing from first engineer to team lead — while staying hands-on.  
