@@ -57,15 +57,9 @@ Currently working as a **Software Engineer @ Eudia**.
   <img src="https://skillicons.dev/icons?i=vitest" alt="Testing" />
 </p>
 
-
-### 📈 GitHub Stats
-<p align=""> 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=tanmaybindal&show_icons=true&theme=tokyonight" height="165" />  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaybindal&layout=compact&theme=tokyonight" height="165" /> </p>
-
 ### 📫 Let’s Connect
 - 💼 LinkedIn
 - 📬 bindaltanmay@gmail.com
 - 🧾 [Resume](https://drive.google.com/file/d/19Ib9iP0x523DB3FgLzDZ7R1Ih7Lg8BV6/view?usp=sharing)
 
-💡 Currently open to fullstack opportunities (frontend-leaning or balanced), remote or Bangalore-based. Let’s build something impactful!
+💡 Currently open to full-stack opportunities (frontend-leaning or balanced), remote or Bangalore-based. Let’s build something impactful!
